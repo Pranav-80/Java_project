@@ -1,2 +1,2 @@
 # Java_project
-This repository contains basic java program.
+This repository contains basic java program and projects.
